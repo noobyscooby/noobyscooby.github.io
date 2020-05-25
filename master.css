@@ -1,0 +1,45 @@
+
+
+/*The three properties used here are:
+1) margin, to shift the text of h1 left by 500px
+2) font- seriff to have any serif font for the text in h1
+3) color- to determine the color of the text in h1 */
+
+.short-img{
+  margin-left: -250px;
+  max-width: 300px;
+  max-height: 300px;
+}
+
+a{
+  color:black;
+  font-family: cursive;
+}
+a:hover{
+  color: #ff00ba ;                                                     #9c00ff
+}
+
+h3{
+  margin-left: 100px;
+
+  font-family: monospace;
+  color: Blue;
+}
+
+.Slavic{
+
+  margin-top: 400px;
+}
+.SlavicR{
+
+  margin-right: 20px;
+}
+.SlavicL{
+
+  margin-left: 20px;
+}
+
+.ereader{
+  margin-left: 550px;
+  margin-top:200px;
+}
