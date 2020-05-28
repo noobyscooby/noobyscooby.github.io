@@ -1,0 +1,19 @@
+
+
+a{
+  color: #5ac18e;
+}
+a:hover{
+  color: #008080;
+}
+
+h1{
+  margin-top: 40px;
+  margin-left: 530px;
+  color: #5ac18e;
+  font-family: sans-serif;
+}
+
+body{
+  background: #ffdab9;
+}
